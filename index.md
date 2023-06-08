@@ -1,25 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-- [Jekyll](https://jekyllrb.com/) rebuilds the pages here, from the content in Markdown files.
-- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [miltozz](https://github.com/miltozz) Check out my github!
+- [miltozz](https://gitlab.com/miltozz)) Check out my gitlab!
 
-### Some Markdown examples
+## Skills
+- DevOps
+- AWS 
+- CI/CD
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- Python
+- Prometheus
+- Grafana
+- ELK
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### Hobbies
+- Music 🎶
+- Guitar 🎻
+- Electric guitar 🎸
+- Movies 🎬🍿
+- Space 🚀
+- Fitness ⛹️‍♂️
+- Fun 😄
 
