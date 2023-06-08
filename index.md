@@ -1,16 +1,16 @@
 ## Welcome!
 
-- [miltozz](https://github.com/miltozz) Check out my github!
-- [miltozz](https://gitlab.com/miltozz) Check out my gitlab!
+- Check out my [github!](https://github.com/miltozz)
+- Check out my [gitlab!](https://gitlab.com/miltozz)
 
 ## Skills
-- DevOps
-- AWS 
+- [DevOps](https://en.wikipedia.org/wiki/DevOps)
+- [AWS](https://aws.amazon.com/)
 - CI/CD
 - Jenkins
 - Docker
-- Kubernetes
-- Terraform
+- [Kubernetes](https://kubernetes.io/)
+- [Terraform](https://www.terraform.io/)
 - Ansible
 - Python
 - Prometheus
