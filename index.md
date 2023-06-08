@@ -1,5 +1,4 @@
-## Welcome!
-
+## Hello!
 - Check out my [github!](https://github.com/miltozz)
 - Check out my [gitlab!](https://gitlab.com/miltozz)
 
