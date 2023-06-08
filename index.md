@@ -1,12 +1,13 @@
 ## Welcome!
 
 - [miltozz](https://github.com/miltozz) Check out my github!
-- [miltozz](https://gitlab.com/miltozz)) Check out my gitlab!
+- [miltozz](https://gitlab.com/miltozz) Check out my gitlab!
 
 ## Skills
 - DevOps
 - AWS 
 - CI/CD
+- Jenkins
 - Docker
 - Kubernetes
 - Terraform
