@@ -16,7 +16,8 @@
 - Grafana
 - ELK
 
-### Hobbies
+## Hobbies
+- Technology ⚙💻💾🧪🥼
 - Music 🎶
 - Guitar 🎻
 - Electric guitar 🎸
